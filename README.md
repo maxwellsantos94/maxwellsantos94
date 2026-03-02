@@ -2,7 +2,7 @@
 <h3 align="center">Apaixonado pela área de dados</h3>
 
 - Atualmente sou residente em Programação Full Stack no **Serratec**
-- Estou aprimorando minhas habilidades em **Java, *Javascript, HTML, CSS,...**
+- Estou aprimorando minhas habilidades em **Java, Javascript, HTML, CSS,...**
 - Minhas habilidades técnicas incluem **SQL, Power BI, Excel, Python, Databricks, Git e Análise Técncia**
 - Minhas habilidades sociais incluem **Aprendizagem Autodidata, comunicação eficaz, trabalho em equipe, adaptabilidade e abordagem orientada a resultados.**
 
