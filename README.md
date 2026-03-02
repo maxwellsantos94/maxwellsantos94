@@ -1,8 +1,8 @@
 <h1 align="center">Olá 👋, Eu sou Maxwell Santos</h1>
 <h3 align="center">Apaixonado pela área de dados</h3>
 
-- Atualmente estou trabalhando com análise e visualização de dados
-- Atualmente estou aprimorando minhas habilidades em **Python**
+- Atualmente sou residente em Programação Full Stack no **Serratec**
+- Estou aprimorando minhas habilidades em **Java, *Javascript, HTML, CSS,...**
 - Minhas habilidades técnicas incluem **SQL, Power BI, Excel, Python, Databricks, Git e Análise Técncia**
 - Minhas habilidades sociais incluem **Aprendizagem Autodidata, comunicação eficaz, trabalho em equipe, adaptabilidade e abordagem orientada a resultados.**
 
